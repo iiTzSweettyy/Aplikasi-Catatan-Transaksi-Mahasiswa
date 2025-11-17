@@ -1,0 +1,10 @@
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+
+*.gradle linguist-vendored
+*.kts linguist-vendored
+
+*.dart linguist-language=Dart
